@@ -1,5 +1,7 @@
 ![](/img/devrel169.png)
 
+### This is a github-friendly version of http://devrel.events
+
 Currently we're responsible for
 * Developer Relations meetups in Stockholm - [call for papers](cfp-devrel-meetups-stockholm.md)
 * Games Tech + Stories meetups in Vilnius - [call for papers](cfp-gamestech-stories.md)
