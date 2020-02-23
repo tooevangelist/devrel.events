@@ -1,11 +1,9 @@
 # devrel.events
-
 Currently we're responsible for
-* Developer Relations meetups in Stockholm
-* Games Tech + Stories meetups in Vilnius
+* Developer Relations meetups in Stockholm - [call for papers](cfp-devrel-meetups-stockholm.md)
+* Games Tech + Stories meetups in Vilnius - [call for papers](cfp-gamestech-stories.md)
 * Code, Speak, Repeat workshops in Vilnius - [call for papers](cfp-code-speak-repeat.md)
 * Find our events on [Eventbrite](https://www.eventbrite.com/o/developer-relations-events-26740448969) or [Facebook](https://www.facebook.com/pg/devrelevents/events/)
-* Want to host our event in your office? 
 
 #### You can star this repo to see how this all develops =)
 Or you can have us [send you an email](https://mailchi.mp/e7b8ff53834e/devrel-dx-developer-relations-community-meetups) when we publish new events.
