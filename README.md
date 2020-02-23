@@ -1,4 +1,5 @@
-# devrel.events
+![](/img/devrel169.png)
+
 Currently we're responsible for
 * Developer Relations meetups in Stockholm - [call for papers](cfp-devrel-meetups-stockholm.md)
 * Games Tech + Stories meetups in Vilnius - [call for papers](cfp-gamestech-stories.md)
@@ -8,6 +9,8 @@ Currently we're responsible for
 #### You can star this repo to see how this all develops =)
 Or you can have us [send you an email](https://mailchi.mp/e7b8ff53834e/devrel-dx-developer-relations-community-meetups) when we publish new events.
 
+
+![](/img/3ofus_500.png)
 
 #### Like what we're doing?
 Want to have our event at your office or venue? 
