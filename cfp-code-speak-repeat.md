@@ -1,6 +1,6 @@
 ## CfP for Code, Speak, Repeat meetups
 
-![](/img/job_girl_500px.png)
+![](/img/cfp_girl_400.png)
 
 Code, Speak, Repeat is a [series of meetups](https://www.eventbrite.com/o/developer-relations-events-26740448969) for programmers to get to like public speaking.
 
