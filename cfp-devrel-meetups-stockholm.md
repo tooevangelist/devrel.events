@@ -1,6 +1,6 @@
 ## CfP for Developer Relations meetups in Stockholm
 
-![](/img/job_girl_500px.png)
+![](/img/cfp_girl_400.png)
 
 [Developer Relations meetups](https://www.eventbrite.com/o/developer-relations-events-26740448969) are free and open to anyone working or interested in developer relations, developer evangelism, developer communities and alike. It is a great opportunity to meet likeminded people and learn something new.
 
