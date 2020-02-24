@@ -1,6 +1,6 @@
 ## CfP for Games Tech + Stories meetups
 
-![](/img/job_girl_500px.png)
+![](/img/cfp_girl_400.png)
 
 Games Tech + Stories is a [series of community meetups](https://www.eventbrite.com/o/developer-relations-events-26740448969) to discuss game development tools and processes but also to celebrate the wins of the local gamedev industry. 
 
