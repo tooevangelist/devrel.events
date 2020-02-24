@@ -1,4 +1,4 @@
-![](/img/devrel169.png)
+![](/img/devrel_white_300.png)
 
 ### This is a github-friendly version of http://devrel.events
 
@@ -12,7 +12,7 @@ Currently we're responsible for
 Or you can have us [send you an email](https://mailchi.mp/e7b8ff53834e/devrel-dx-developer-relations-community-meetups) when we publish new events.
 
 
-![](/img/3ofus_500.png)
+![](/img/3ofus_400_white.png)
 
 #### Like what we're doing?
 Want to have our event at your office or venue? 
