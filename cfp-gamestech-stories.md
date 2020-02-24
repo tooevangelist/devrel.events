@@ -7,7 +7,7 @@ Games Tech + Stories is a [series of community meetups](https://www.eventbrite.c
 Each meetup features a Games/Tech Showcase where we show your short video and rave about what’s cool about your game, tech solution, Unity plugin, beautiful shader… you tell us what to rave about =)
 
 #### The schedule for Games Tech + Stories meetups:
-* [March 26](eventbrite-link-goes-here)
+* [March 26](https://www.eventbrite.com/e/games-tech-stories-meetup-tickets-96506685093)
 * April 9
 * May 27
 
