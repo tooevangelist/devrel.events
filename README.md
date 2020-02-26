@@ -26,3 +26,4 @@ As a host you're responsible for guests to feel safe and welcome. Food and drink
 #### Other opportunities:
 * We're experimenting with recording and live-streaming of our events. Let us know if you're interested to chip in.
 * Collabs. Communication partners. Anything fun and useful is appreciated.
+* Check out [volunteering.md](volunteering.md) for details
