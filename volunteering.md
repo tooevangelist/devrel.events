@@ -1,9 +1,10 @@
 ## Why and how to volunteer at our events
-![](/img/cfp_girl_400.png)
-
 We're figuring out the best ways to make it all work...
 
 ## Some volunteering ideas
+
+<img align="right" src="/img/kpop_boy_h400.png">
+
 #### Video/Audio
 We do awesome community events but don't record or live-stream them because we'd need more people for this.
 We more or less have the basic equipment, but somebody has to 
@@ -14,6 +15,8 @@ We more or less have the basic equipment, but somebody has to
 * process the audio and video, cut and publish
 * YouTube or podcasts? Yeah, that also.
 * figure out the design/graphics so it looks and feels good
+
+<img align="left" src="/img/kpop_girl_h400.png">
 
 #### Graphics/Imagery
 There are many ideas to make these community events even better by producing nice art that people can relate to. Yeah, with time we'll have budgets for an artist. But perhaps you feel like volunteering to
