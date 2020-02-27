@@ -1,10 +1,9 @@
 ## Why and how to volunteer at our events
 ![](/img/cfp_girl_400.png)
 
-We're filling this in for now. Keep an eye on this to learn more
+We're figuring out the best ways to make it all work...
 
-
-## Volunteering ideas
+## Some volunteering ideas
 #### Video/Audio
 We do awesome community events but don't record or live-stream them because we'd need more people for this.
 We more or less have the basic equipment, but somebody has to 
