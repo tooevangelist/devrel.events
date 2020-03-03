@@ -43,6 +43,12 @@ This one can have many ways of doing.
 
 Interested to help? Can you show up at [any of our events](https://www.eventbrite.com/o/developer-relations-events-26740448969)? Email us to devrel.events@gmail.com or [raise an issue](/../../issues/new) to discuss the opportunity. 
 
+#### Speaking
+We're a non-profit community initiative (as of this writing), so cannot compensate speakers. Yet. But if you're interested in giving a talk at one of our events, please see what is available for:
+* [Developer Relations meetups in Stockholm](/../../cfp-devrel-meetups-stockholm.md)
+* [Code, Speak, Repeat meetups in Vilnius](/../../cfp-code-speak-repeat.md)
+* [GamesTech + Stories meetups in Vilnius](/../../cfp-gamestech-stories.md)
+
 ## Example
 This is the offer/agreement that we ended up having with folks who wanted to help with writing/communications.
 We'd figure out a mutually beneficial and fun agreement on whatever you'd like to help us with.
