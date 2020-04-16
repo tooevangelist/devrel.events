@@ -1,8 +1,9 @@
 <img align="center" src="/img/devrel_white_300.png">
 
 ### This is a github-friendly version of http://devrel.events
+We're focused on DevRel Online Meetups for now. Here's the [link to the previous one](https://www.facebook.com/events/3376817495681090/).
 
-Currently we're responsible for
+These feel like a previous life, huh?
 * Developer Relations meetups in Stockholm - [call for papers](cfp-devrel-meetups-stockholm.md)
 * Games Tech + Stories meetups in Vilnius - [call for papers](cfp-gamestech-stories.md)
 * Code, Speak, Repeat workshops in Vilnius - [call for papers](cfp-code-speak-repeat.md)
